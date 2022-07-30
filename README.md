@@ -38,7 +38,7 @@
 
 
       
-<p align="center"><sub><sup>Credit to Michael McAllister for the README inspiration and Reza Shakeri for beautify-github-profile tools.<br>Also, my beard isn't nearly as great as Grant over there.</sup></sub></p>
+<p align="center"><sub><sup>Credit to Michael McAllister for the README inspiration and Reza Shakeri for beautify-github-profile tools.<br>Also, my beard isn't nearly as great as Grant's over there.</sup></sub></p>
 
          
 <!--
