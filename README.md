@@ -32,6 +32,12 @@
     </a>
     <!-- git  -->
     <a href="#" target="_blank"><img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+    </a>  
+    <!-- ansible -->
+    <a href="#" target="_blank"><img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white")
+    </a>    
+    <!-- python -->
+    <a href="#" target="_blank"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white")
     </a>
 </p>
 
@@ -40,17 +46,4 @@
       
 <p align="center"><sub><sup>Credit to Michael McAllister for the README inspiration and Reza Shakeri for beautify-github-profile tools.<br>Also, my beard isn't nearly as great as Grant's over there.</sup></sub></p>
 
-         
-<!--
-**ulysseskan/ulysseskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
