@@ -34,10 +34,10 @@
     <a href="#" target="_blank"><img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     </a>  
     <!-- ansible -->
-    <a href="#" target="_blank"><img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white")
+    <a href="#" target="_blank"><img alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
     </a>    
     <!-- python -->
-    <a href="#" target="_blank"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white")
+    <a href="#" target="_blank"><img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
     </a>
 </p>
 
