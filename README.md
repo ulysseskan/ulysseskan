@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
     <samp>Hello!
-        <b>I am Ulysses (pronounced: yoo-lis-eez)</b>
+        <b>I'm Ulysses (pronounced: yoo-lis-eez)</b>
       <p>(But if you know Spanish, I accept the Spanish pronunciation too.)</b>
     </samp>
 </h3>
